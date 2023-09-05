@@ -77,3 +77,14 @@ article p
     padding: 0.3rem;
     
   }
+
+@media screen and (max-width: 100px)
+{
+    .chat {
+        width: 80vw;
+      }
+
+    .socials {
+        width: 70vw;
+      }
+}
