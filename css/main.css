@@ -78,7 +78,7 @@ article p
     
   }
 
-@media screen and (max-width: 100px)
+@media screen and (max-width: 1000px)
 {
     .chat {
         width: 80vw;
